@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vaibhav
 
-[![Email](https://img.shields.io/badge/Email-ilapani888@gmail.com-red)](vaibhavkotadiya143@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vaibhavkotadiya143@gmail.com-red)](vaibhavkotadiya143@gmail.com)
 
 ## Senior Full Stack Developer | React | React Native | Node Js | Next Js
 
@@ -68,4 +68,4 @@ I have extensive experience in creating custom component libraries that align wi
 
 ## Get in Touch! 📬
 
-[![Email](https://img.shields.io/badge/Email-ilapani888@gmail.com-red)](vaibhavkotadiya143@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vaibhavkotadiya143@gmail.com-red)](vaibhavkotadiya143@gmail.com)
