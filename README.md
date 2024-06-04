@@ -52,7 +52,15 @@
 
 ---
 
-I have extensive experience in creating custom component libraries that align with a client's unique system design. By offering guidance throughout the development process, I can help clients save a significant amount of money while also accelerating the pace of development.
+My areas of expertise include front-end development, back-end development, and API integration. I have worked with clients across various industries, and I'm experienced in developing software solutions that meet their unique needs.
+
+What you can expect from me:
+
+💻 Web application development: I have experience building web applications using a range of technologies, including React, Vue, Next.js and more. I'm skilled in creating responsive and user-friendly interfaces, and I have a strong understanding of best practices for front-end development.
+
+🔌 API development, integrations, and automations: I have experience building and integrating APIs using Node.js, Express, and other technologies. I'm skilled in creating APIs that are scalable, reliable, and easy to use.
+
+🌐 Frontend and backend development: As a full-stack developer, I have experience working on both the front-end and back-end of web applications. I'm skilled in using React Native to build scalable and efficient mobile applications.
 
 ---
 
@@ -61,7 +69,6 @@ I have extensive experience in creating custom component libraries that align wi
 - React Hook Form
 - React Query
 - Moment.js
-- NX
 - Micro Frontend
 
 ---
