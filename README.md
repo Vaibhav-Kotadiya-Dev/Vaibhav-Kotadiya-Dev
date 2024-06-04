@@ -4,7 +4,7 @@
 
 ## Senior Full Stack Developer | React | React Native | Node Js | Next Js
 
-💰 5+ years of experience as a JavaScript, React, React Native, Express,js, Nest.js, TypeScript, Redux, GraphQL, HTML5, CSS3, MUI, Ant Design, and Apollo client
+💰 5+ years of experience as a JavaScript, React, React Native, Express.js, Nest.js, TypeScript, Redux, GraphQL, HTML5, CSS3, MUI, Ant Design, and Apollo client
 
 🎯 Good communication and planning skills
 
