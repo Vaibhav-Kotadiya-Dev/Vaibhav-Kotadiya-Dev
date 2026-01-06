@@ -1,8 +1,8 @@
 # Hi 👋, I'm Vaibhav
 
-## Senior Full Stack Developer | React | Next JS | React Native | Nest.js | Express.js
+## Senior Full Stack & AI Developer | React | Next JS | React Native | Nest.js | Express.js
 
-💰 Over 6 years of experience specializing in JavaScript, with expertise in React, Next.js, React Native, Express.js, Nest.js, and TypeScript. Proficient in state management using Redux, API integration with GraphQL and Apollo Client, and front-end development with HTML5, CSS3, Material UI, and Ant Design. Well-versed in cloud services (AWS), ETL pipelines, CI/CD workflows, and working with data platforms like BigQuery.
+💰 Over 6 years of experience specializing in JavaScript, with expertise in React, Next.js, React Native, Express.js, Nest.js, and TypeScript. Proficient in state management using Redux, API integration with GraphQL and Apollo Client, and front-end development with HTML5, CSS3, Material UI, and Ant Design. Well-versed in cloud services (AWS), ETL pipelines, CI/CD workflows, working with data platforms like BigQuery and cutting-edge AI technologies. Specializing in Large Language Models (LLMs), and ML Pipelines.
 
 🎯 Good communication and planning skills
 
