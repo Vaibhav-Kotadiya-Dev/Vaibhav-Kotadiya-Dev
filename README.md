@@ -1,8 +1,8 @@
 # Hi 👋, I'm Vaibhav
 
-## Full Stack Developer | AI Automation | Scalable Web Apps & Data Systems for Businesses
+## Full Stack Developer | AI Integration Specialist | Scalable Web Apps & Data Systems
 
-💰 Over 7 years of experience specializing in JavaScript, with expertise in React, Next.js, React Native, Express.js, Nest.js, and TypeScript. Proficient in state management using Redux, API integration with GraphQL and Apollo Client, and front-end development with HTML5, CSS3, Material UI, and Ant Design. Well-versed in cloud services (AWS), ETL pipelines, CI/CD workflows, working with data platforms like BigQuery and cutting-edge AI technologies. Specializing in Large Language Models (LLMs), and ML Pipelines.
+💰 Over the past 7+ years, I've helped companies across fintech, e-learning, IoT, e-commerce, and blockchain go from idea to production-ready platform. Whether it's a full web application, a mobile app, a real-time data system, or a cloud infrastructure overhaul -- I take ownership of the entire stack and see it through.
 
 🎯 Good communication and planning skills
 
